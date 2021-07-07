@@ -1,0 +1,3 @@
+/home/artistyi/CLionProjects/FancyFunction/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/artistyi/CLionProjects/FancyFunction/cmake-build-debug/CMakeFiles/FancyFunction.dir
+/home/artistyi/CLionProjects/FancyFunction/cmake-build-debug/CMakeFiles/edit_cache.dir

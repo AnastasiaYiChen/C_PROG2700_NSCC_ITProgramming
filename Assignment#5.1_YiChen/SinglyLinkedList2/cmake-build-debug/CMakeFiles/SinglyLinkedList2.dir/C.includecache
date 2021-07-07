@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yi/CLionProjects/SinglyLinkedList2/SList.c
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+SList.h
+/home/yi/CLionProjects/SinglyLinkedList2/SList.h
+
+/home/yi/CLionProjects/SinglyLinkedList2/SList.h
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/git1/w0443276/PROG2007/Assignment#3_YiChen/easyString/main.c
+stdio.h
+-
+
+D:/git1/w0443276/PROG2007/Assignment#3_YiChen/easyString/palindrome.c
+stdbool.h
+-
+

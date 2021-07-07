@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/SinglyLinkedList2.dir/main.c.o CMakeFiles/SinglyLinkedList2.dir/SList.c.o  -o SinglyLinkedList2 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/artistyi/CLionProjects/FancyFunction/bisect.c
+assert.h
+-
+math.h
+-
+
+/home/artistyi/CLionProjects/FancyFunction/main.c
+stdio.h
+-
+math.h
+-
+
